@@ -2,35 +2,31 @@
   "todos": [
     {
       "id": 1,
-      "title": "react"
+      "title": "김동찬 천재"
     },
     {
       "id": 2,
-      "title": "node"
+      "title": "cccc"
     },
     {
       "id": 3,
-      "title": "spring"
+      "title": "react"
     },
     {
-      "title": "",
-      "id": 4
+      "id": 4,
+      "title": "meteo storm~"
     },
     {
-      "title": "",
+      "title": "김동찬입니다",
       "id": 5
     },
     {
-      "title": "",
+      "title": "호날두입니다",
       "id": 6
     },
     {
-      "asdasd": "",
+      "title": "hello mofucker",
       "id": 7
-    },
-    {
-      "title": "",
-      "id": 8
     }
   ]
 }
